@@ -1,0 +1,40 @@
+h1 {
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.red {
+    
+    width: 30%;
+    height: 100px;
+    background-color: red;
+    border: 5px solid;
+    margin: 0 auto;
+    
+}
+
+.green {
+    
+    width: 30%;
+    height: 100px;
+    background-color: green;
+    border: 5px solid;
+    margin: 0 auto;
+    border-radius: 30%;
+}
+
+.blue {
+    
+    
+    width: 30%;
+    height: 100px;
+    background-color: blue;
+    border: 5px solid;
+    margin: 0 auto;
+    
+}
